@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '40559'
     url: http://www.gutenberg.org/2009/agents/40559
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40328#Ahasvero-nell-Isola-del-Diavolo
 gutenberg_bookshelf: IT Poesia
 gutenberg_issued: '2012-07-24'
 gutenberg_type: Text
