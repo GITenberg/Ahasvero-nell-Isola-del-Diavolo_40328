@@ -1,0 +1,29 @@
+_repo: Ahasvero-nell-Isola-del-Diavolo_40328
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Levi, David
+    birthdate: 1816
+    deathdate: 1898
+    gutenberg_agent_id: '40559'
+    url: http://www.gutenberg.org/2009/agents/40559
+description: ''
+gutenberg_bookshelf: IT Poesia
+gutenberg_issued: '2012-07-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40328'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poetry'
+- !lcsh 'Jews -- France'
+- !lcc 'DS'
+title: "Ahasvero nell'Isola del Diavolo: versi\r\npreceduti da uno studio su l'Ebraismo\
+  \ e la rivoluzione francese"
+url: http://www.gutenberg.org/ebooks/40328
